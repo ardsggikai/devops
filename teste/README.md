@@ -18,4 +18,4 @@ Arquivo de ajuda deste repositório
 
 
 #01. Como clonar esse projeto: Digite no terminal o comando 
-git clone https://github.com/felipeparisi/devops
+git clone https://github.com/ardsggikai/devops
