@@ -4,7 +4,7 @@ Básico de Git e Github no Linux Mint
 Site: https://www.linkedin.com/in/allan-gomes-55a1651a0/
 Facebook: facebook.com/
 
-Linkdin:
+Linkdin:https://www.linkedin.com/in/allan-gomes-55a1651a0/
 
 Instagram: 
 
